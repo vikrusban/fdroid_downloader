@@ -1,0 +1,5 @@
+#Install requirements
+pip3 install -r requirements.txt
+
+#Use script
+python3 .\fdroid_downloader.py -f list.txt
